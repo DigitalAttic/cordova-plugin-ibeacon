@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petermetz/cordova-plugin-ibeacon.git"
+    "url": "git+https://github.com/DigitalAttic/cordova-plugin-ibeacon"
   },
   "keywords": [
     "cordova",
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/petermetz/cordova-plugin-ibeacon/issues"
   },
-  "homepage": "https://github.com/petermetz/cordova-plugin-ibeacon"
+  "homepage": "https://github.com/DigitalAttic/cordova-plugin-ibeacon"
 }
