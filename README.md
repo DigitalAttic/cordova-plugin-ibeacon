@@ -17,6 +17,7 @@
          under the License.
 -->
 
+Explain why we did this?
 
 ## ![iBeacon Cordova Plugin](http://icons.iconarchive.com/icons/artua/mac/128/Bluetooth-icon.png) Cordova / Phonegap iBeacon plugin
 
